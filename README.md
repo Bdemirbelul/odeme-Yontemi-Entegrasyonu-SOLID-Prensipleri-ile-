@@ -1,4 +1,4 @@
-Dinamik Log Sistemi (Spring Boot)
+Dinamik Log Sistemi (Spring Boot) - Balamir Demirkan Belül
 
 Bu projede, Spring Boot yapısı içerisinde annotation ve reflection kullanılarak log türünün çalışma anında dinamik biçimde seçilebildiği basit ama öğretici bir örnek geliştirildi. Projenin temel amacı, ortak bir Log arayüzünü farklı sınıflar üzerinden uygulamak ve hangi loglama sınıfının kullanılacağını kod içerisinde sabit olarak tanımlamak yerine, özel annotation’lar ve reflection mekanizması yardımıyla belirlemektir. Böylece sistem daha esnek, geliştirilebilir ve nesne yönelimli tasarım ilkelerine daha uygun hale getirilmiştir.
 
